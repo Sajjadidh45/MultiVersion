@@ -1,10 +1,6 @@
 name: MultiVersion
-api: 3.28.0
-main: AkmalFairuz\MultiVersion\Loader
-version: 0.486.1
-description: A plugin to allows older Minecraft client versions to connect to newer server versions.
-mcpe-protocol: 486
-author: AkmalFairuz
-permissions:
-  multiversion.command:
-    default: op
+version: 1.0.0
+api: 5.0.0
+main: AkmalFairuz\MultiVersion\Main
+author: YourName
+description: Allow players from 1.20.0 to 1.21.70 to join the server
